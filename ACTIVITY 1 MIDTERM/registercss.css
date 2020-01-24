@@ -59,6 +59,7 @@ body
 		width: 250px;
 		border-color: rgba(255, 186, 3);
 }
+/***************Submit Button talaga po dapat ito para gumana yung code na "Required" pinalitan ko lang ng "Button" para makita yung design after gumawa ng accoutn******/
 .box input[type="button"]
 {
 		font-weight: bold;
